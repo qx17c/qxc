@@ -1,3 +1,5 @@
+### [👉👉👉♥♥点此进入♥观看入口👈👈👈](https://mrddrm.github.io/crm.html)
+<br></br><br></br><br></br>
 用Python编写的简单可乐自动贩卖机模拟程序。这个程序模拟了真实贩卖机的基本功能，包括选择商品、投币、找零和出货。
 
 python
